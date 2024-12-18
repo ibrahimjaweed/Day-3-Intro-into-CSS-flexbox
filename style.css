@@ -1,0 +1,20 @@
+*{
+    color:red
+}
+div {
+    text-align: center;
+}
+p, a {
+    text-align:center;
+    color: blue;
+}
+
+h1{
+    text-align: right;
+}
+.cursive {
+    font-family: cursive;
+}
+#one{
+    font-size: 40px;
+}
